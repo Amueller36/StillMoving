@@ -1,4 +1,6 @@
 # Web Technologien // begleitendes Projekt Sommersemester 2024
+![](train_result.png)
+
 
 Bilder mit Langzeitbelichtung sind gar nicht so einfach zu erstellen, vor allem, wenn man möglichst
 viel Kontrolle über das Endergebnis haben möchte. In unserem Ansatz, bildet ein Film den Ausgangspunkt. Diesen zerlegen
